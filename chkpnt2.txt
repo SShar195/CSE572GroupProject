@@ -1,0 +1,26 @@
+Focus on decsision trees
+	Try different attributes to split on
+		Kinda hard to do, features are vague at best
+		We can split on activity, use that to gain a better perspective on the results 
+		We can split on mean 
+    We also need to focus on how we can use trees to determine feature relation
+        I frankly have no idea how to do this rn, maybe more research is required or some shit idk 
+
+
+
+We need to find a better way to relate results to eachother
+	Maybe we need to look at mean in relation to another one of the scores 
+		Just write something rq about the mean in relation to other things
+		I'm thinking we run some regression tests? dont know how they would work with this data set but we need to run more models 
+	
+WE NEED TO EMPHASISZE IN THE PRESENTATION THAT WE ARE IMPROVING
+FIND NEW MODELS TO TEST
+    USE A DIFFRENT FEATURE FOR RANDOM FOREST
+
+IMPROVE METHODS 
+    WILL ASK FOR ARTIFIAL INTELLEGENCE HELP 
+
+FUTURE PLAN 
+    fuck if i know 
+        what if theres something about implementing a stronger feature correlation pipeline 
+        thats it idk 
